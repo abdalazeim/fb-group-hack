@@ -1,5 +1,8 @@
 ##fb-group-hack
 
+- **ScrennShot**:
+
+     ![ScrennShot](https://github.com/abdalazeim/fb-group-hack/blob/master/fb-group-hack.png)
 # *how to run the script :  
 
 #1 - download it by: git clone https://github.com/abdalazeim/fb-group-hack
